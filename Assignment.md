@@ -1,68 +1,109 @@
-# Personal Portfolio Documentation
+# 📄 Personal Portfolio Documentation
+
+---
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Wang'ondu Claire Wambui  
+- **Admission Number**: 151104  
+- **GitHub Username**: Clair3e  
+- **Email**: claire.wang'ondu@strathmore.edu  
+
+---
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+🔗 **GitHub Pages URL**:  
+[https://clair3e.github.io/build-your-portfolio-github-workflow-essentials-Clair3e/](https://clair3e.github.io/build-your-portfolio-github-workflow-essentials-Clair3e/)
+
+---
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
+### 🧠 What I Thought I'd Learn vs What I Actually Learned
 
-What you thought it would be like **(Expectation 👀)**
+---
 
-What you actually learned **(Reality 😅)**
+#### 1. Concept: Branching  
+- **Expectation 👀**: I thought branching was mostly for huge collaborative teams or open-source projects.  
+- **Reality 😅**: I learned that even solo developers should use branches to test features safely.  
+- **Impact 💡**: I created a feature branch for my "About Me" section and merged it into main after testing.
 
-And how it helped with your personal portfolio project 💻
+---
 
-make it honest—and if it surprised you, even better!
+#### 2. Concept: Commit Messages  
+- **Expectation 👀**: I thought I could write anything like “final update” or “done”.  
+- **Reality 😅**: Using structured commit messages like `feat`, `fix`, `style`, etc., makes it easy to track progress.  
+- **Impact 💡**: I used `feat` for new features and `fix` to fix form issues, which helped keep things organized.
 
-Example format:
+---
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+#### 3. Concept: Pull Requests (PRs)  
+- **Expectation 👀**: I thought PRs were only used in big teams.  
+- **Reality 😅**: I saw how PRs help review and track changes even in small projects.  
+- **Impact 💡**: I used PRs to merge my feature branches and even resolved merge conflicts manually.
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+---
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+#### 4. Concept: GitHub Projects  
+- **Expectation 👀**: I assumed it was just a fancy to-do list.  
+- **Reality 😅**: I discovered how powerful project boards are for tracking milestones, issues, and progress visually.  
+- **Impact 💡**: I created a project board for each milestone, helping me stay organized from start to finish.
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+---
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
+---
 
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
+### ✅ Milestones  
+📌 *Shows the milestone created for tracking overall progress and key deadlines.*  
+![GitHub Milestones](images/Milestones.jpg)
 
-```markdown
-![Caption](path/to/your/image.png)
-```
+---
 
-### A. Milestones and Issues
+### ✅ Issues  
+📝 *Demonstrates how I created and tracked feature requests and bugs using GitHub Issues.*  
+![GitHub Project Board](images/Issues1.jpg)  
+🛠️ *Shows issues linked to PRs and how they were automatically closed.*  
+![GitHub Project Board](images/Issues2.jpg)
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+---
 
-### B. Project Board
+### ✅ Project Board  
+📊 *Displays the GitHub project board with columns for “To Do”, “In Progress”, and “Done” used to organize and track workflow.*  
+![GitHub Project Board](images/Project-Board.jpg)
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+---
 
-### C. Branching
+### ✅ Branching Example  
+🌿 *Visual proof that I created and used a feature branch for developing parts of the site before merging into main.*  
+![Branch Created](images/Branching.jpg)
 
-- Screenshot showing your branch list with meaningful naming.
+---
 
-### D. Pull Requests
+### ✅ Pull Request  
+🔀 *Screenshot of a pull request made to merge changes from a branch into the main branch demonstrating collaboration best practices.*  
+![Pull Request](images/pull-request.jpg)
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+---
 
-### E. Merge Conflict Resolution
+### ✅ Merge Conflict Resolved  
+⚔️ *First screenshot shows a merge conflict message encountered during a pull request.*  
+![Merge Conflict](images/Merge-Conflict1.jpg)  
+✅ *Second screenshot shows successful resolution of the merge conflict using GitHub’s editor.*  
+![Merge Conflict](images/Merge-conflict2.jpg)
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+---
+
+### ✅ Live Portfolio Page  
+💻 *These screenshots show the deployed version of my portfolio hosted on GitHub Pages, including the hero section and contact form.*  
+![Portfolio Preview](images/Landing-page1.jpg)  
+![Portfolio Preview](images/Landing-page2.jpg)  
+![Portfolio Preview](images/Landing-page3.jpg)
+
+---
+
+## ✅ Done & Deployed 🎉
+
+Thank you for the challenge I now understand GitHub workflows much better, and I'm proud of my personal portfolio progress!
