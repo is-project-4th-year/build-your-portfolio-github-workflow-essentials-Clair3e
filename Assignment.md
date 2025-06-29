@@ -71,7 +71,7 @@
 ---
 
 ### ✅ Project Board  
-📊 *Displays the GitHub project board with columns for “To Do”, “In Progress”, and “Done” — used to organize and track workflow.*  
+📊 *Displays the GitHub project board with columns for “To Do”, “In Progress”, and “Done” used to organize and track workflow.*  
 ![GitHub Project Board](images/Project-Board.jpg)
 
 ---
@@ -83,7 +83,7 @@
 ---
 
 ### ✅ Pull Request  
-🔀 *Screenshot of a pull request made to merge changes from a branch into the main branch — demonstrating collaboration best practices.*  
+🔀 *Screenshot of a pull request made to merge changes from a branch into the main branch demonstrating collaboration best practices.*  
 ![Pull Request](images/pull-request.jpg)
 
 ---
@@ -106,4 +106,4 @@
 
 ## ✅ Done & Deployed 🎉
 
-Thank you for the challenge — I now understand GitHub workflows much better, and I'm proud of my personal portfolio progress!
+Thank you for the challenge I now understand GitHub workflows much better, and I'm proud of my personal portfolio progress!
